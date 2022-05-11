@@ -1,7 +1,7 @@
 {
   "hosting": {
     "target": "neev",
-    "public": "dist/neev",
+    "public": "dist/neev/browser",
     "ignore": [
       "**/.*"
     ],
