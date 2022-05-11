@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "manishsoftwareapp": {
+      "hosting": {
+        "neev": [
+          "theneev"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "manishsoftwareapp"
+  }
+}

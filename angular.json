@@ -99,6 +99,16 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {
+            "prerender": false,
+            "ssr": false,
+            "browserTarget": "neev:build:production",
+            "firebaseProject": "manishsoftwareapp",
+            "firebaseHostingSite": "theneev"
+          }
         }
       }
     }
